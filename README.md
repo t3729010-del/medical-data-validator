@@ -1,2 +1,1 @@
-# medical-data-validator
-Medical Data Validator 🏥 — A Python tool that detects errors, invalid formats, and inconsistencies in medical records. Ensure clean, reliable healthcare data with clear validation rules and instant feedback.
+Medical Data Validator — A Python-based validation tool that checks structured medical records for format errors, missing fields, and inconsistent data types. It uses predefined validation rules (e.g., patient ID format, age constraints, gender values, and visit IDs) to identify invalid entries and ensure data consistency. Currently supports validation of in-code sample datasets and demonstrates rule-based data quality checking.
